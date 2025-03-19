@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Bonjour, je suis étudiant à l'école 42, passionné par le développement backend et le développement web.<br>💻 J'ai de l'expérience en Python (Django), C, C++, et je suis en train d'apprendre Node.js et JavaScript.<br>🚀 Actuellement, je travaille sur plusieurs projets, dont un jeu Pong avec Django, une application web avec authentification OAuth 2.0 et une future boutique en ligne.<br>🌍 Je suis à la recherche d'un stage pour approfondir mes compétences, relever de nouveaux défis et contribuer à des projets innovants.<br>📫 N'hésitez pas à me contacter !<br><br>👉 [https://www.linkedin.com/in/camille-bouziri-837a1224a/]
+👋 Bonjour, je suis étudiant à l'école 42, passionné par le développement backend et le développement web.<br>💻 J'ai de l'expérience en Python (Django), C, C++, et je suis en train d'apprendre Node.js et JavaScript.<br>🚀 Actuellement, je travaille sur plusieurs projets, dont un jeu Pong avec Django, une application web avec authentification et une future boutique en ligne.<br>🌍 Je suis à la recherche d'un stage pour approfondir mes compétences, relever de nouveaux défis et contribuer à des projets innovants.<br>📫 N'hésitez pas à me contacter !<br><br>👉 [https://www.linkedin.com/in/camille-bouziri-837a1224a/]
 
 
 ## 🌐 Socials:
